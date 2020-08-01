@@ -31,4 +31,4 @@ else:
                         assert True
                 else:
                     print('No data found.')  # condition false case
-                    assert False
+                    # assert False

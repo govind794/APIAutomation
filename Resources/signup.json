@@ -1,0 +1,6 @@
+{
+  "name": "{{$randomFullName}}",
+  "email": "{{$randomEmail}}",
+  "password": "{{$randomPassword}}",
+  "referred_by": "GOVI2EJB"
+}
