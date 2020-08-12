@@ -1,4 +1,4 @@
 class Global():
     baseUrl = "https://feature3.drivezytest.com"
-    username = "govind.patidar@drivezy.com"
-    password = "Brother794@"
+    username = "api@gmail.com"
+    password = "Api@123"
